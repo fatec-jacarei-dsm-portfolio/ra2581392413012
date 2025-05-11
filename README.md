@@ -1,2 +1,4 @@
-# ra2581392413012
-Repositório do aluno BRUNA CAIADO REGRA.
+# Portfólio de Projetos - Fatec Jacareí
+### Aluno: Bruna Caiado Regra
+### Curso: Desenvolvimento de Software Multiplataforma
+### Turma: 1o. Semestre de 2024
