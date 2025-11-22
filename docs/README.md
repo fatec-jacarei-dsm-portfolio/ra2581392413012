@@ -4,7 +4,10 @@
 ### Turma: 1o. Semestre de 2024 
 
 
-<video src="./video/video-portfolio_certo.mp4" controls width="700"></video>
+### Vídeo do Portfólio
+
+<video src="./video-portfolio_certo.mp4" controls width="700">
+</video>
 
 
 
