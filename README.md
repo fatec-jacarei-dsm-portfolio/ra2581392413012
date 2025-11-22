@@ -6,6 +6,5 @@
 
 ### Vídeo do Portfólio
 
-<video src="./video-portfolio_certo.mp4" controls width="700">
-</video>
+<video src="./video/video-portfolio_certo.mp4" controls width="700"></video>
 
