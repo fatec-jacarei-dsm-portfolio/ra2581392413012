@@ -4,6 +4,13 @@ $(document).ready(function() {
         $('#mobile_btn').find('i').toggleClass('fa-x');
     });
 
+    $('.btn-ver-mais').on('click', function () {
+        const dish = $(this).closest('.dish');
+        dish.toggleClass('expanded');
+        const isExpanded = dish.hasClass('expanded');
+        $(this).text(isExpanded ? 'Ver menos' : 'Ver mais');
+    });
+
     const sections = $('section');
     const navItems = $('.nav-item');
 
